@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="" rel="noopener">
  <img width=200px height=200px src="/src/wifi.png" alt="Project logo"></a>
 </p>
 
