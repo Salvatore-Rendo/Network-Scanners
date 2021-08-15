@@ -42,7 +42,7 @@ Decide which scanner you want to use and run :
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [Pyton](https://www.python.org/)
+- [Python](https://www.python.org/)
 
 ## ✍️ Author <a name = "authors"></a>
 
